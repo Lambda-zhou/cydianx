@@ -123,7 +123,7 @@ class getTpInfo():
 
 
 if __name__ == '__main__':
-    imgpa = r'F:\bz\dianx\images\3.jpg'
+    imgpa = r'F:\bz\dianx\images\2.jpg'
     s = getTpInfo()
     s.shibie(imgpa)
 
